@@ -1,10 +1,10 @@
 {
-    "name": "redvinyle/recipes",
+    "name": "dantin/recipes",
     "description": "système de recettes en PHP objet",
     "authors": [
         {
-            "name": "Noémie Durand",
-            "email": "noemie.durand75000@gmail.com"
+            "name": "Dantin Durand",
+            "email": "durand.dantin.pro@gmail.com"
         }
     ],
     "require": {
